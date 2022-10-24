@@ -20,7 +20,7 @@ namespace Q1
 			{
 				start ++;
 			}
-			Console.WriteLine(start);
+			Console.WriteLine(start-1);
 			
 
 		}
